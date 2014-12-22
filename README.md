@@ -32,11 +32,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Ros cœli. Or, A miscellany of ejaculations, divine, morall, &c. Being an extract out of divers worth
+
+1. TO THE RIGHT WORSHIPFVLL Sr EDWARD POWEL, Knight and Baronet, one of the Maſters of his Mties Court of Requeſts.
+Octob. 18. 1639.Imprimatur, THO: WYKES.
 #####Body#####
-Ros cœli. Or, A miscellany of ejaculations, divine, morall, &c. Being an extract out of divers worth
+
+1. Ejaculations and Meditations, Divine, Moral, Political.
+
 #####Back#####
-Ros cœli. Or, A miscellany of ejaculations, divine, morall, &c. Being an extract out of divers worth
+A deſcription of true Happineſſe.LOng have I ſought the wiſh of allTo finde, and what it is men call
 **Types of content**
 
   * There are 50 **verse** lines!
